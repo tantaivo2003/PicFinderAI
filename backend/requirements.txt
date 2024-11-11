@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+aiofiles
+python-multipart
+mysql-connector-python
+PyJWT
+email-validator
+requests
+websockets
+passlib
+itsdangerous
